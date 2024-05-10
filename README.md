@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Ex-No: 1 Study-of-basic-gates
 
 **AIM:** 
 
